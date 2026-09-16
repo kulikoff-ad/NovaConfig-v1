@@ -1,0 +1,7 @@
+#profile-title: NovaConfig-v1
+vless://d88b975e-2922-494b-8da4-23489aaab0f3@192.168.1.83:10086?type=tcp&security=none#NovaConfig-1
+vless://d88b975e-2922-494b-8da4-23489aaab0f3@192.168.1.83:10086?type=tcp&security=none#NovaConfig-2
+vless://d88b975e-2922-494b-8da4-23489aaab0f3@192.168.1.83:10086?type=tcp&security=none#NovaConfig-3
+vless://d88b975e-2922-494b-8da4-23489aaab0f3@192.168.1.83:10086?type=tcp&security=none#NovaConfig-4
+vless://d88b975e-2922-494b-8da4-23489aaab0f3@192.168.1.83:10086?type=tcp&security=none#NovaConfig-5
+vless://d88b975e-2922-494b-8da4-23489aaab0f3@192.168.1.83:10086?type=tcp&security=none#NovaConfig-6
